@@ -8,7 +8,7 @@
 		<version>3.5.5</version>
 		<relativePath/> </parent>
 	<groupId>br.com.controledegastos</groupId>
-	<artifactId>controle-de-gastos</artifactId>
+	<artifactId>controle-de-gastos02</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>controle-de-gastos</name>
 	<description>Aplicação para controle de gastos pessoais</description>
